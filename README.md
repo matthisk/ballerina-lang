@@ -1,9 +1,12 @@
-  [![Build](https://github.com/ballerina-platform/ballerina-lang/workflows/Ballerina%20daily%20build/badge.svg)](https://github.com/ballerina-platform/ballerina-lang/actions/workflows/daily_build.yml)
+[![Instruqt Ready-to-Code](https://img.shields.io/badge/Instruqt-Ready%20to%20Code-blueviolet)](https://play.instruqt.dev/embedv2/nellycorp/tracks/ballerina-demo/challenges/running-your-first-ballerina-program/notes)
+[![Build](https://github.com/ballerina-platform/ballerina-lang/workflows/Ballerina%20daily%20build/badge.svg)](https://github.com/ballerina-platform/ballerina-lang/actions/workflows/daily_build.yml)
   [![GitHub (pre-)release](https://img.shields.io/github/release/ballerina-platform/ballerina-lang/all.svg)](https://github.com/ballerina-platform/ballerina-lang/releases)
   [![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/ballerina-platform/ballerina-lang.svg)](https://github.com/ballerina-platform/ballerina-lang/releases)
   [![GitHub last commit](https://img.shields.io/github/last-commit/ballerina-platform/ballerina-lang.svg)](https://github.com/ballerina-platform/ballerina-lang/commits/master)
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   [![codecov](https://codecov.io/gh/ballerina-platform/ballerina-lang/branch/master/graph/badge.svg)](https://codecov.io/gh/ballerina-platform/ballerina-lang)
+
+[![Open in Instruqt](https://user-images.githubusercontent.com/602837/107056311-7fcf0980-67d2-11eb-96fc-21a5050174c0.png)](https://play.instruqt.dev/embedv2/nellycorp/tracks/ballerina-demo/challenges/running-your-first-ballerina-program/notes)
 
 # The Ballerina Programming Language
 
